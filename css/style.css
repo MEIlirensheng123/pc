@@ -1,0 +1,155 @@
+@charset "utf-8";
+			.box{
+				background: #F2F2F2;
+			}
+			a{
+				color: black;
+			}
+/*dingbu*/
+		.dingbu{
+			height: 70px;
+			background: #504F4F;
+		}
+		.dingbu1 h1{background: url('../img/logo.png') no-repeat left center;
+		padding-top: 15px;
+		width: 400px;
+		text-indent: -999em;
+		float: left;
+
+		}
+		.dingbu1 p{
+			line-height: 70px;
+			float: right;
+		}
+		.dingbu1 a{
+			color: #fff;
+		}
+
+
+/*daohang*/
+		.daohang{
+			height: 56px;
+			font-size: 0;
+		}
+		.daohang .p2{
+			line-height: 56px;
+			font-family: 宋体;
+			font-size: 14px;
+			float: right;
+			padding: 0 19px;
+		}
+		.daohang .a1{
+			padding-right:;
+		}
+
+/*neirong*/
+		.neirong img{
+			border: 1px solid black;
+			margin-bottom: 23px;
+		}
+		.neirong2{
+			background-color: #fff;
+			height: 285px;
+			border: 1px solid black;
+			margin-bottom: 30px;
+		}
+		.zuo{
+			margin-left: 16px;
+			float: left;
+			width: 174px;
+			padding-top: 12px;
+		}
+    h5{
+    	padding: 5px;
+			padding-right: 5px;
+			float: left;
+			font-family: "宋体";
+			font-size: 18px;
+			font-weight: normal;
+			color: #FC9918;
+		}
+		.p4{
+			float: left;
+			font-family: "宋体";
+			font-size: 12px;
+			padding-top: 6px;
+		}
+		.zhong{
+			margin-left: 25px;
+			padding-top: 34px;
+			float: left;
+			width:436px ;
+		}
+		.zhong .p3{
+			font-family:"宋体";
+			font-size: 12px;
+			line-height: 30px;
+		}
+		#yanse{
+			color: #FC9918;
+		}
+		.you{
+			margin-top: 12px;
+			margin-left: 25px;
+			float: left;
+			width: 290px;
+			border-left: 1px solid black;
+		}
+		.you ul{
+			padding-right: 20px;
+			padding-left: 30px;
+		}
+		.you  li{
+			line-height: 28px;
+			font-family: 宋体;
+			font-size: 12px;
+		}
+		.youzi{
+			margin-left: 28px;
+		}
+		.you ul span{
+			float: right;
+		}
+		.neirong3{
+			margin-bottom: 40px;
+			background-color: #fff;
+			font-size: 0;
+			border: 1px solid black;
+		}
+		.neirong3 .zi{
+			margin: 15px 0 8px 16px;
+		}
+		.neirong3 img{
+			padding-right: 24px;
+			padding-bottom: 20px;
+		}
+		.neirong3 .tu1{
+			padding-left: 13px;
+		}
+
+/*dibu*/
+    .xia{
+    	border-top: 1px solid black;
+    }
+		.dibu{
+			font-size: 0;
+			margin-top:32px;
+			font-family:"宋体" ;
+		}
+		.dibu p{
+			font-size: 12px;
+			padding-left: 5px;
+			padding-bottom: 10px;
+		}
+		.dibu span{
+			padding-right: 14px;
+			padding-left: 14px;
+		}
+		.dibu .s1{
+			color:#FC9919;
+			padding: 0;
+			border-bottom: 1px solid #FC9919;
+		}
+		.dibu #di{
+			padding-left: 0px;
+		}
